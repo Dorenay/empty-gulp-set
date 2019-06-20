@@ -1,0 +1,21 @@
+{
+  "name": "lk-taxi-ritm",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dorenay <dorenay@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "slick-carousel": "^1.8.1"
+  }
+}
