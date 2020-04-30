@@ -26,6 +26,6 @@
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "gulp-babel": "^8.0.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
